@@ -36,7 +36,7 @@ Transform:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1635124586307954}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: -7, z: -0}
+  m_LocalPosition: {x: 0, y: -9, z: -0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -92,6 +92,10 @@ MonoBehaviour:
   moveSpeed: 10
   padding: 1
   health: 500
+  deathSoundVolume: 0.7
+  playerDeathSound: {fileID: 8300000, guid: db9e873d8daebe243a41c1d006af4f31, type: 3}
+  shotSoundVolume: 0.4
+  shotSound: {fileID: 8300000, guid: 77e59e68a15d4e44f9263931faf833a7, type: 3}
   laserPrefab: {fileID: 1999292831873312, guid: 7c4ef9e0f8c7c6e4b816df87e32b4183,
     type: 2}
   projectileSpeed: 10

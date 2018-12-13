@@ -86,6 +86,12 @@ MonoBehaviour:
   projectilePrefab: {fileID: 1999292831873312, guid: d53d9fecee64cab47995f7fab3119225,
     type: 2}
   projectileSpeed: -15
+  destroyVFXPrefab: {fileID: 1872176561688670, guid: ce6c5f64bfc675843a7a84eb003020c1,
+    type: 2}
+  enemyClipPrefab: {fileID: 8300000, guid: 8d8418fa52f195c4b9593165d9af8b13, type: 3}
+  deathSoundVolume: 0.4
+  enemyShootPrefab: {fileID: 8300000, guid: d694b254a183e3d4dbbca466a3f80fb2, type: 3}
+  shootSoundVolume: 0.4
 --- !u!114 &114717329889400566
 MonoBehaviour:
   m_ObjectHideFlags: 1
