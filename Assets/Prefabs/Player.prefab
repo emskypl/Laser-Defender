@@ -94,7 +94,7 @@ MonoBehaviour:
   health: 500
   deathSoundVolume: 0.7
   playerDeathSound: {fileID: 8300000, guid: db9e873d8daebe243a41c1d006af4f31, type: 3}
-  shotSoundVolume: 0.4
+  shootSoundVolume: 0.4
   shotSound: {fileID: 8300000, guid: 77e59e68a15d4e44f9263931faf833a7, type: 3}
   laserPrefab: {fileID: 1999292831873312, guid: 7c4ef9e0f8c7c6e4b816df87e32b4183,
     type: 2}
